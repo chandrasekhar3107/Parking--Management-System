@@ -1,7 +1,9 @@
 ## Deployed At: https://parking-managment-system.herokuapp.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## How to install Dependencies used in project ?
+   In the terminal execute the command 
+   ### `npm install`
 ## Available Scripts
 
 In the project directory, you can run:
